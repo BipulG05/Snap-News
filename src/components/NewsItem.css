@@ -1,0 +1,15 @@
+.newscard{
+    padding:1rem;
+}
+.card-img-top{
+    height: 11rem;
+}
+
+.pubDate{
+    height: 2rem;
+    color: black;
+    text-align: center;
+    margin-left: 0.3rem;
+    font-size: small;
+    padding-top: 0.3rem;
+}
